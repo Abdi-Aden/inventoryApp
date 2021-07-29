@@ -1,0 +1,7 @@
+{
+  "data": [
+      {"name" : "AZINC", "location" : "New York", "buyer": "Tom Thumb"},
+      {"name" : "KDistro", "location": "Houston", "buyer": "Walmart"},
+      {"name" : "AliExpress", "location": "China", "buyer": "Amazon"}
+  ]  
+}
